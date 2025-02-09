@@ -4,7 +4,13 @@
 
 <h1>I'm Ranveer</h1>
 <p>Aspiring software engineer passionate about building apps and solving problems. I work with C++,JavaScript, React Native, Java, and Spring Boot. Currently exploring DSA, low-level programming, and system design.</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmwvamp" alt="rmwvamp" /></a> </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=rmwvamp&theme=discord">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=rmwvamp&theme=flat">
+    <img src="https://github-profile-trophy.vercel.app/?username=rmwvamp" alt="GitHub Trophies">
+  </picture>
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
