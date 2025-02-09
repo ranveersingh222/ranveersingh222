@@ -35,9 +35,29 @@
 <a target="_blank" href="mailto:ranveersinghyadav222@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Email-logo?style=for-the-badge&logo=maildotru&logoColor=white&color=%23D14836" alt="mail" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ranveersingh222&show_icons=true&locale=en" alt="ranveersingh222" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmwvamp&" alt="rmwvamp" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranveersingh222&show_icons=true&locale=en&layout=compact" alt="ranveersingh222" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ranveersingh222&show_icons=true&theme=dark&locale=en">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ranveersingh222&show_icons=true&theme=light&locale=en">
+    <img src="https://github-readme-stats.vercel.app/api?username=ranveersingh222&show_icons=true&locale=en" alt="GitHub Stats">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rmwvamp&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rmwvamp&theme=light">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmwvamp" alt="GitHub Streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ranveersingh222&show_icons=true&locale=en&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ranveersingh222&show_icons=true&locale=en&layout=compact&theme=light">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranveersingh222&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranveersingh222/ranveersingh222/output/github-snake-dark.svg" />
