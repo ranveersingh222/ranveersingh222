@@ -29,7 +29,7 @@
 </div>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Ranveer singh" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<p align="center"><a target="_blank" href="https://www.linkedin.com/in/Ranveer singh" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/rveeway" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://linktr.ee/ranveersingh222" style="display: inline-block;"><img src="https://img.shields.io/badge/Linktree-logo?style=for-the-badge&logo=Linktree&logoColor=white&color=%2300C300" alt="linktree" /></a>
 <a target="_blank" href="mailto:ranveersinghyadav222@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Email-logo?style=for-the-badge&logo=maildotru&logoColor=white&color=%23D14836" alt="mail" /></a>
