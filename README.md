@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
 <h1>Hi 👋, I'm Ranveer</h1>
 <p>Aspiring software engineer passionate about building apps and solving problems. I work with C++,JavaScript, React Native, Java, and Spring Boot. Currently exploring DSA, low-level programming, and system design.</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmwvamp" alt="rmwvamp" /></a> </p>
